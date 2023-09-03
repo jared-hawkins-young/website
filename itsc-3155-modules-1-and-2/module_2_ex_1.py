@@ -1,9 +1,9 @@
-b = input("Enter a string: ")
+k = input("Enter a string: ")
 
 upper = ""
 lower = ""
 
-for char in b:
+for char in k:
     if char.isupper():
         upper += char
     elif char.islower():
