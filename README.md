@@ -15,3 +15,4 @@ for char in k:
 result = lower + upper
 
 print(result)# Intermediate_python_ex2
+# Intermediate_python_ex2
