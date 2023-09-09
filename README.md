@@ -14,4 +14,4 @@ for char in k:
 
 result = lower + upper
 
-print(result)
+print(result)# Intermediate_python_ex2
